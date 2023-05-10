@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381276976680",
+    "project_id": "dabus-a8822",
+    "storage_bucket": "dabus-a8822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381276976680:android:9c73b69eba7b1fe0d1671d",
+        "android_client_info": {
+          "package_name": "com.example.dabus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381276976680-c36m52c42d71ohmrgvv1h5mm4neuhsot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzRjKInPaLCtc6FwTyAPcZzMDcBQGRHLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381276976680-c36m52c42d71ohmrgvv1h5mm4neuhsot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
